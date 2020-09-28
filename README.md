@@ -1,6 +1,9 @@
-# flutter_app
+# Generate-WordPair
 
-A new Flutter application.
+A useless app, unless you love WordPairs
+
+### What is a WordPair ? 
+Nothing, just a pair of words
 
 ## Getting Started
 
